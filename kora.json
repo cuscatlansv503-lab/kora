@@ -1,10 +1,12 @@
 [
   {
     "nombre": "Canal 1",
+    "logo": "https://ejemplo.com/logo.png",
     "url": "https://kora.st/ch?id=1"
   },
   {
-    "nombre": "Canal 2",
-    "url": "https://kora.st/ch?id=2"
+    "nombre": "Canal 1",
+    "logo": "https://ejemplo.com/logo.png",
+    "url": "https://kora.st/ch?id=1"
   }
 ]
